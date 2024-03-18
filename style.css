@@ -1,0 +1,35 @@
+.color{
+    background-color:dark;
+    color: rgb(250, 235, 235);
+}
+.color-letter{
+    color:white;
+    font-size: 600;
+}
+.parents{
+    position: relative;
+    height: 500px;
+    border-radius: 50%;
+    width: 500px;
+}
+.chilld{
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+.size{
+    font-size:20px;
+
+}
+.w{
+    width: 300px;
+}
+
+*{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+}
